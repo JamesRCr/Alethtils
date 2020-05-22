@@ -7,5 +7,5 @@ Current Progress:
 
 TODO:
 - Upload to Pypi
-- RAM measurer
+- Memory measurer
 - Time and memory complexity tests and estimations
